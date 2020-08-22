@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "cab202_timers.h": "c",
+        "math.h": "c"
+    }
+}
